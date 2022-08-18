@@ -5,3 +5,5 @@ Experienced in interpreting and analyzing data to help businesses in taking grow
 Tools mainly in use:
 
 | SQL | Snowflake |  Amazon Redshift| PostgesSQL| Tableau |  Power BI | Google data studio | Google Analytics | Tag manager
+
+LinkedIn: https://www.linkedin.com/in/purnimagupta17/
