@@ -1,5 +1,3 @@
-#**Purnima Gupta**
-
 Experienced in interpreting and analyzing data to help businesses in taking growth-oriented decisions. I am a Data Analyst and currently working with the most popular nordic marketplaces in Finland.
 
 [LinkedIn](https://www.linkedin.com/in/purnimagupta17)\
@@ -27,31 +25,31 @@ Recently I am advancing my SQL skills and also interested to work on projects ba
 
 **Skills and Contact**
 
-DATA VISUALISATION
+**DATA VISUALISATION**
 
 Tableau 2021.4, Power BI, Google Data Studio, MS Excel, Google sheets
 
-DATAWAREHOUSES/DBMS
+**DATAWAREHOUSES/DBMS**
 
 Snowflake, Amazon Redshift, PostgresSQL, BigQuery (beginner)
 
-WEB ANALYTICS
+**WEB ANALYTICS**
 
 Google Analytics, Google Tag Manager, Amplitude, Ahrefs (short use)
 
-QUERY LANGUAGES
+**QUERY LANGUAGES**
 
 SQL, Python (beginner)
 
-DOCUMENTATION\
+**DOCUMENTATION**\
 Confluence, Jira, Google docs, Miro
 
 
-LANGUAGES\
+**LANGUAGES**\
 English (Fluent), Finnish (B1.2 level), Hindi (Native)
 
 
-Location:\
+**Location**\
 Espoo, Finland
  
 
