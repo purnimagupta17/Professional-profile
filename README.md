@@ -57,6 +57,6 @@ English (Fluent), Finnish (B1.2 level), Hindi (Native)
 
 Location:\
 Espoo, Finland
-
+ 
 
 
