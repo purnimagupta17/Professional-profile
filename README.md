@@ -4,5 +4,4 @@ Experienced in interpreting and analyzing data to help businesses in taking grow
 
 Tools mainly in use:
 
-
-#SQL #tableau #powerbi #snowflake #postgressql #amazonredshift #datastudio #googleanalytics #tagmanager
+| SQL | Snowflake |  Amazon Redshift| PostgesSQL| Tableau |  Power BI | Google data studio | Google Analytics | Tag manager
