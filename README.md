@@ -3,7 +3,7 @@
 Experienced in interpreting and analyzing data to help businesses in taking growth-oriented decisions. I am a Data Analyst and currently working with the most popular nordic marketplaces in Finland.
 
 [LinkedIn](https://www.linkedin.com/in/purnimagupta17)\
-[GitHub](https://purnimagupta17.github.io/Purnima-Gupta)
+[GitHub](https://github.com/purnimagupta17)
 
 
 
